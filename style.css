@@ -27,6 +27,7 @@ body {
   color: #47294c;
   text-transform: uppercase;
   font-weight: 600;
+  font-size: 5rem;
 }
 
 /* HEADER */
@@ -85,6 +86,10 @@ body {
 .hero-col-2 {
   width: 50%;
   height: 100vh;
+}
+
+.hero-col-1 {
+  background-color: transparent;
 }
 
 .hero-col-2 {
